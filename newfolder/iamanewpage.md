@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2022-11-18T15:24:36.379Z
+date: 2022-11-18T15:26:04.376Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-18T15:24:36.379Z
@@ -12,3 +12,5 @@ dateCreated: 2022-11-18T15:24:36.379Z
 Your content here
 
 ![mygrafix.png](/screenshots/mygrafix.png)
+
+![grafik.png](/screenshots/grafik.png)
