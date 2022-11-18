@@ -1,0 +1,33 @@
+---
+title: My page
+description: some page nice
+published: true
+date: 2022-11-17T17:00:11.289Z
+tags: 
+editor: markdown
+dateCreated: 2022-11-17T17:00:10.030Z
+---
+
+# Header
+Your content here
+
+we will see
+
+
+hello there
+---
+
+
+`this is code`
+
+```diagram
+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIxcHgiIGhlaWdodD0iMXB4IiB2aWV3Qm94PSItMC41IC0wLjUgMSAxIiBjb250ZW50PSImbHQ7bXhmaWxlIGhvc3Q9JnF1b3Q7ZW1iZWQuZGlhZ3JhbXMubmV0JnF1b3Q7IG1vZGlmaWVkPSZxdW90OzIwMjItMTEtMTdUMTY6NTk6MjQuMzA0WiZxdW90OyBhZ2VudD0mcXVvdDs1LjAgKFdpbmRvd3MpJnF1b3Q7IHZlcnNpb249JnF1b3Q7MjAuNS4zJnF1b3Q7IGV0YWc9JnF1b3Q7aTk4VmIzYWJ0ek1IY3V6Q3FoT2UmcXVvdDsgdHlwZT0mcXVvdDtlbWJlZCZxdW90OyZndDsmbHQ7ZGlhZ3JhbSBpZD0mcXVvdDtCZ05DazZadEtobVFsOFBjV1p1ZCZxdW90OyBuYW1lPSZxdW90O1NlaXRlLTEmcXVvdDsmZ3Q7ZFpIQkRvSXdESWFmWm5mWURNb1pVUytlT0hoZVdHVkxCbDNHRE9qVEM5a1FGelRwb2YzNmQvL1dFVmEwNDlseUk2OG9RQk9haUpHd0k2RTAzVkZLNWtqRTA1TTh6VHhvckJKQnRJSkt2U0RBSk5DSEV0QkhRb2VvblRJeHJMSHJvSFlSNDliaUVNdnVxR05Yd3h2WWdLcm1la3R2U2pqcDZZSHVWMzRCMWNqRk9jMXkzMm41SWc0djZTVVhPSHdoVmhKV1dFVG5zM1lzUU0vTFcvYmk1MDUvdXArTFdlamNqNEVwV2MrZWl1aUhXUGtHJmx0Oy9kaWFncmFtJmd0OyZsdDsvbXhmaWxlJmd0OyI+PGRlZnMvPjxnLz48L3N2Zz4=
+```
+
+```mermaid
+flowchart
+
+hello
+
+this --> here
+```
